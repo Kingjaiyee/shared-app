@@ -36,7 +36,7 @@ if the terraform apply command is run, what would happen?
 The t3a.small instance will be destroyed when **terraform apply** command is run and the new instance of t3a.large
 will be created.
 
-**Question 2**
+**Question 3**
 Imagine you have a DB backup dump/file which is compressed to tar.gz format and its size is 2TB. 
 We always need to share this file between different EC2 instances, can you provide steps?
 
